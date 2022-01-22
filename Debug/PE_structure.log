@@ -1,0 +1,7 @@
+﻿  PERW_console.cpp
+  PE_utils.cpp
+D:\C++\PE_structure\PE_utils.cpp(110,20): warning C4018: “<”: 有符号/无符号不匹配
+  printPE.cpp
+  正在生成代码...
+D:\C++\PE_structure\PE_utils.cpp(135): warning C4715: “FilebufferToFile”: 不是所有的控件路径都返回值
+  PE_structure.vcxproj -> D:\C++\PE_structure\Debug\PE_structure.exe
